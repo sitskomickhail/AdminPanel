@@ -1,0 +1,29 @@
+E:\Projects\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe.config
+E:\Projects\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe
+E:\Projects\AdminPanel\AdminPanel\bin\Debug\AdminPanel.pdb
+E:\Projects\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csprojResolveAssemblyReference.cache
+E:\Projects\AdminPanel\AdminPanel\obj\Debug\MainWindow.g.cs
+E:\Projects\AdminPanel\AdminPanel\obj\Debug\App.g.cs
+E:\Projects\AdminPanel\AdminPanel\obj\Debug\AdminPanel_MarkupCompile.cache
+E:\Projects\AdminPanel\AdminPanel\obj\Debug\AdminPanel_MarkupCompile.lref
+E:\Projects\AdminPanel\AdminPanel\obj\Debug\MainWindow.baml
+E:\Projects\AdminPanel\AdminPanel\obj\Debug\AdminPanel.g.resources
+E:\Projects\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+E:\Projects\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.Cache
+E:\Projects\AdminPanel\AdminPanel\obj\Debug\AdminPanel.exe
+E:\Projects\AdminPanel\AdminPanel\obj\Debug\AdminPanel.pdb
+E:\Projects\AdminPanel\AdminPanel\bin\Debug\MySql.Data.dll
+E:\Projects\Twitch Bots Application\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe.config
+E:\Projects\Twitch Bots Application\AdminPanel\AdminPanel\obj\Debug\AdminPanel.exe
+E:\Projects\Twitch Bots Application\AdminPanel\AdminPanel\obj\Debug\AdminPanel.pdb
+E:\Projects\Twitch Bots Application\AdminPanel\AdminPanel\bin\Debug\AdminPanel.exe
+E:\Projects\Twitch Bots Application\AdminPanel\AdminPanel\bin\Debug\AdminPanel.pdb
+E:\Projects\Twitch Bots Application\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csprojResolveAssemblyReference.cache
+E:\Projects\Twitch Bots Application\AdminPanel\AdminPanel\obj\Debug\MainWindow.g.cs
+E:\Projects\Twitch Bots Application\AdminPanel\AdminPanel\obj\Debug\App.g.cs
+E:\Projects\Twitch Bots Application\AdminPanel\AdminPanel\obj\Debug\AdminPanel_MarkupCompile.cache
+E:\Projects\Twitch Bots Application\AdminPanel\AdminPanel\obj\Debug\AdminPanel_MarkupCompile.lref
+E:\Projects\Twitch Bots Application\AdminPanel\AdminPanel\obj\Debug\MainWindow.baml
+E:\Projects\Twitch Bots Application\AdminPanel\AdminPanel\obj\Debug\AdminPanel.g.resources
+E:\Projects\Twitch Bots Application\AdminPanel\AdminPanel\obj\Debug\AdminPanel.Properties.Resources.resources
+E:\Projects\Twitch Bots Application\AdminPanel\AdminPanel\obj\Debug\AdminPanel.csproj.GenerateResource.Cache
